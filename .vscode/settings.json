@@ -1,0 +1,5 @@
+{
+  "prettier.configPath": ".prettierc.json",
+  "prettier.requireConfig": true,
+  "prettier.useEditorConfig": false
+}
