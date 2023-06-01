@@ -5,7 +5,7 @@ import Icon from '@mui/material/Icon';
 
 const Introduction = () => {
   return (
-    <>
+    <Box sx={{ display: 'flex', flexDirection: 'column' }}>
       <Box>
         <Typography
           sx={{
@@ -54,7 +54,7 @@ const Introduction = () => {
           including versions of Lorem Ipsum.
         </Typography>
       </Box>
-    </>
+    </Box>
   );
 };
 
